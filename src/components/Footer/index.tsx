@@ -49,7 +49,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="https://discord.gg/YOUR_INVITE"
+                    href="https://discord.com/invite/AuVRMHrv44"
                     aria-label="discord"
                     target="_blank"
                     rel="noopener noreferrer"
