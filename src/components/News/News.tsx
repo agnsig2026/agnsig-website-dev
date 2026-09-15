@@ -49,14 +49,14 @@ const News = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="space-y-3">
-                    <List text="Coming Spotlight Serie Talks: 17 March 1 pm ET / 10 am PT" 
+                    <List text='Applying Spotlight Series Speaker, please contact Prof. Erin Hicks (ekhicks@alaska.edu)'></List>
+                    <List text="Coming Spotlight Serie Talks: 22 September 2026 1 pm ET / 10 am PT" 
                     />
-                    <List 
+                    {/* <List 
                       text="Dissertation Jamboree Application (Deadline: 28 March 2026)"
                       url="https://docs.google.com/forms/d/e/1FAIpQLSeufuTliApMdP2cmGTt98EdLHVEEn6C9bklxa4jD6l01lXUZQ/viewform"
-                    />
+                    /> */}
                     <List text="Monthly AGN coffee (Discord)" />
-                    <List text="COPAG Astro2030" />
                   </div>
 
                 </div>
