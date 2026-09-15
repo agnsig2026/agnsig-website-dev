@@ -13,7 +13,7 @@ const Footer = () => {
                 </p>
                 <div className="flex items-center">
                   <a
-                    href="/"
+                    href="https://www.facebook.com/groups/activegalacticnuclei/?ref=share&mibextid=wwXIfr&rdid=MXXvF7jTL84Nr6P5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F14s5hWyq4nQ%2F%3Fmibextid%3DwwXIfr#"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -33,7 +33,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.youtube.com/@NASAAGNSIG"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"

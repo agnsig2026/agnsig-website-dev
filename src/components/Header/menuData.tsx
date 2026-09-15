@@ -1,32 +1,32 @@
 import { Menu } from "@/types/menu";
 
 const menuData: Menu[] = [
+  // {
+  //   id: 1,
+  //   title: "Top",
+  //   path: "#news",
+  //   newTab: false,
+  // },
   {
     id: 1,
-    title: "Top",
-    path: "#news",
-    newTab: false,
-  },
-  {
-    id: 2,
     title: "News",
     path: "#news",
     newTab: false,
   },
   {
-    id: 3,
+    id: 2,
     title: "Talks",
     path: "#talks",
     newTab: false,
   },
   {
-    id: 4,
+    id: 3,
     title: "Leadership",
     path: "#team",
     newTab: false,
   },
   {
-    id: 5,
+    id: 4,
     title: "COR",
     path: "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig/",
     newTab: true,

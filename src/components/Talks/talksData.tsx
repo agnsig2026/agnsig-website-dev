@@ -5,6 +5,62 @@ import { Talk } from "@/types/talk";
 
 const talksData: Talk[] = [
   {
+    id: 16,
+    type: "Spotlight",
+    date: "18 Aug 2026",
+    name: "Dr. Pallavi Patil \n(National Radio Astronomy Observatory) ",
+    title: "Unveiling the Role of AGN in Post-Starburst Galaxies: Quenching Mechanisms at Cosmic Noon",
+    url: "https://www.youtube.com/watch?v=d-VdCwAcAGM&t=1887s" 
+  },
+  {
+    id: 15,
+    type: "Spotlight",
+    date: "18 Aug 2026",
+    name: "Xiaojing Lin \n(Tsinghua University)",
+    title: "Probing the Early Growth of Black Holes through Low-ReDshift LRD Survey ((LRDs)²)",
+    url: "https://www.youtube.com/watch?v=d-VdCwAcAGM&t=152s" 
+  },
+  {
+    id: 14,
+    type: "Spotlight",
+    date: "21 Jul 2026",
+    name: "Dr. Daniel Palumbo \n(Harvard University)",
+    title: "Spin Signatures in Horizon-Resolved Images of LLAGN",
+    url: "https://www.youtube.com/watch?v=aAoXYJE9720&t=1915s" 
+  },
+  {
+    id: 13,
+    type: "Spotlight",
+    date: "21 Jul 2026",
+    name: "Daniel Delaney \n(University of Alaska)",
+    title: "Coupling Driven H2 Excitation in Seyferts: GATOS JWST/MRS",
+    url: "https://www.youtube.com/watch?v=aAoXYJE9720&t=240s" 
+  },
+  {
+    id: 12,
+    type: "Spotlight",
+    date: "23 Jun 2026",
+    name: "Dr. Ming-Yi Lin \n(University of Toledo)",
+    title: "Investigating AGN Feeding and Feedback Through Circumnuclear Gas Kinematics in NGC 3079 and NGC 1068",
+    url: "https://www.youtube.com/watch?v=ykjm6uzTcj0&t=2220s" 
+  },
+  {
+    id: 11,
+    type: "Spotlight",
+    date: "23 Jun 2026",
+    name: "Peixin Zhu \n(Harvard University)",
+    title: "Central Shocks and Metal-Enriched Outflows: A New View of AGN Feedback",
+    url: "https://www.youtube.com/watch?v=ykjm6uzTcj0&t=230s" 
+  },
+  {
+    id: 10,
+    type: "Vision",
+    date: "26 May 2026",
+    name: "Dr. Stéphanie Juneau \n(NSF NOIRLab, NSF-Simons CosmicAI)",
+    title: "AGN Science in the Era of Big Data: From DESI to the AI Revolution",
+    url: "https://www.youtube.com/watch?v=NNvi-2PJydk&t=180s" 
+  },
+  {
     id: 9,
     type: "Spotlight",
     date: "17 Mar 2026",
