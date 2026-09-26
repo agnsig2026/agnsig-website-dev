@@ -5,6 +5,22 @@ import { Talk } from "@/types/talk";
 
 const talksData: Talk[] = [
   {
+    id: 18,
+    type: "Spotlight",
+    date: "22 Sep 2026",
+    name: "Dr. Elias Kammoun \n(Caltech) ",
+    title: "Disk Reflection as the Origin of the X-ray Polarization of NGC 4151 with IXPE",
+    url: "https://www.youtube.com/watch?v=Y5f0gAhSGko&t=1825s" 
+  },
+  {
+    id: 17,
+    type: "Spotlight",
+    date: "22 Sep 2026",
+    name: "Matteo Ceci \n(Università di Firenze) ",
+    title: "Unveiling the Role of Multi-Phase AGN Outflows with MIRACLE",
+    url: "https://www.youtube.com/watch?v=Y5f0gAhSGko&t=85s" 
+  },
+  {
     id: 16,
     type: "Spotlight",
     date: "18 Aug 2026",

@@ -19,7 +19,7 @@ const memberData: Leader[] = [
     {
       id: 4,
       name: "Pallavi Patil",
-      affiliation: "Johns Hopkins University",
+      affiliation: "National Radio Astronomy Observatory",
     },
     {
       id: 5,
